@@ -15,7 +15,7 @@ dependencies:
   # path: ../esc_pos_utils
   flutter_bluetooth_basic:
     git:
-      url: git://github.com/ajiehust/flutter_bluetooth_basic
+      url: git://github.com/ajiehust/flutter_bluetooth_basic.git
       ref: master
 
 dev_dependencies:
